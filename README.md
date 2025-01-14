@@ -2,7 +2,7 @@
 <p>I created this project using HTML, CSS, and JavaScript, integrating Swiper.js to build a hover system with smooth animations. It highlights my skills in frontend development and focus on crafting engaging user interactions.</p>
 <h2>Setup Instructions</h2>
 <h4>1. Clone the Respository</h6>
-<li>git clone </li>
+<li>git clone https://budhah123.github.io/hoverSystemSwiper/ </li>
 <h4>Install dependencies</h6>
 <li>cd hover-system-swiper</li>
 <li>npm install swiper</li>
@@ -28,6 +28,7 @@ Responsiveness: Primarily designed for desktop, with minor issues on smaller scr
       <li>Testing, Debugging, and Final Touches: 1 hour</li>
 <h4>Live Demo</h4>
 You can view a live demo of the project at the following link:
+https://budhah123.github.io/hoverSystemSwiper/
 
 
 
