@@ -26,6 +26,9 @@ Responsiveness: Primarily designed for desktop, with minor issues on smaller scr
 <li>Initial Setup and Research: 1 hour</li>
      <li>Development of Hover System: 2 hours</li>
       <li>Testing, Debugging, and Final Touches: 1 hour</li>
+<h4>Live Demo</h4>
+You can view a live demo of the project at the following link:
+
 
 
 
